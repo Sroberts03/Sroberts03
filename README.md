@@ -1,16 +1,43 @@
-## Hi there 👋
+# Sam Roberts (Sroberts03)
 
-<!--
-**Sroberts03/Sroberts03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Developer | Full-Stack Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+Passionate about building robust, full-stack applications with a strong understanding of web technologies and development best practices.
+
+---
+
+##  Skills & Technologies
+| Category               | Technologies Used                                  |
+|------------------------|---------------------------------------------------|
+| Frontend               | JavaScript, React                                 |
+| Backend                | Node.js, Express                                  |
+| Containerization       | Docker                                             |
+| Databases              | MySQL                                              |
+| Programming Languages | Java, JavaScript                                   |
+| DevOps & Tools         | Docker, Git                                        |
+
+---
+
+##  Projects
+
+| Project Name           | Description                                                                 | Tech Stack                             |
+|------------------------|-----------------------------------------------------------------------------|----------------------------------------|
+| **Startup**           | CS260 class project—website startup                                          | JavaScript                             |
+| **Chess**             | Full-stack chess application (client/server architecture, networked play)    | Java                                   |
+| **projectOneToDoList**| Dockerized CRUD to-do list with React, Node.js/Express, and MySQL             | React, Node.js, Express, MySQL, Docker |
+| **first-contributions** | Helping beginners contribute to open source                                  | Fork of starter project                 |
+| **Sroberts03**        | Profile configuration repository                                             | Repository management                   |
+
+---
+
+##  Contact
+- **GitHub**: [Sroberts03](https://github.com/Sroberts03)  
+- **Email**: Samr72003@gmail.com
+
+---
+
+##  What I’m Looking For
+Open to full-stack development roles, internships, or collaborative projects where I can grow my skills, particularly in Java, JavaScript, and modern web development stacks.

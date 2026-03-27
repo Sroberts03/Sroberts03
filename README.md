@@ -12,12 +12,12 @@ Passionate about building robust, full-stack applications with a strong understa
 ##  Skills & Technologies
 | Category               | Technologies Used                                  |
 |------------------------|---------------------------------------------------|
-| Frontend               | JavaScript, React                                 |
-| Backend                | Node.js, Express                                  |
+| Frontend               | TypeScript, JavaScript, React, Next.js             |
+| Backend                | Node.js, Express, python, Nest.js, Java            |
 | Containerization       | Docker                                             |
-| Databases              | MySQL                                              |
-| Programming Languages | Java, JavaScript                                   |
-| DevOps & Tools         | Docker, Git                                        |
+| Databases              | MySQL, supabase, postgresql                        |
+| DevOps & Tools         | Docker, Git, Playwright, Jest                      |
+| Mobile                 | React Native                                       |
 
 ---
 
